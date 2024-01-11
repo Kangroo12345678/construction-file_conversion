@@ -1,0 +1,18 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = meters
+
+mtllib 15428216-31f7-4ef3-bebf-940bc439eac9.mtl
+
+g Mesh1 G_2__ext_wall1 Model
+
+v 2.50366 0 -2.82241
+v 7.74965 0 -2.82241
+l 1 2
+
+g Mesh2 G_2__ext_wall1 Model
+
+v 2.50366 0 -2.31013
+v 7.74965 0 -2.31013
+l 3 4
+
